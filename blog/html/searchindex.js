@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{about:[2,1],goal:[0,1],sitemap:1,research:[0,1]},objtypes:{},titles:["Research Goals","Sitemap","About"],objnames:{},filenames:["2012/07/21/research_goals","master","pages/about"]})
