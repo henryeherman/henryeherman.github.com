@@ -6,7 +6,7 @@ Research Goals
         :scale: 50 %
         :alt: Jellyfish Concept Image
 
-     This is the jellyfish caption
+        This is the jellyfish caption
 
 .. author:: default
 .. categories:: none
